@@ -1,4 +1,6 @@
 #Library Management System – Python & Tkinter
+
+
 Project Overview
 This Library Management System is a desktop-based application designed to streamline library operations such as book inventory management, user registrations, book requests, and returns. Built using Python’s Tkinter for the GUI and integrated with MySQL for data storage, this system ensures efficient book tracking and user management.
 
